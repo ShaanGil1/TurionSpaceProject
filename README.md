@@ -17,7 +17,7 @@ conda activate pytorchcnn
 - Run the model.ipynb <br>
 - Run all cells and model should run <br>
 - Modify any hyperparams in the hyperparams cell<br>
-- Note: Dataset only needs to be downloaded once no need to re-run that cell after the first time, (might need to create empty folder call "dataset") <br>
+- Note: Dataset only needs to be downloaded once no need to re-run that cell after the first time, (might need to create empty folder called "dataset") <br>
 ## Computer Specs
 - Whole file can run under 4 minutes (not including dataset download) on my device using a NVIDIA GeForce RTX 3070, 8GB dedicated RAM
 # Considerations and Justifactions for Choices made
